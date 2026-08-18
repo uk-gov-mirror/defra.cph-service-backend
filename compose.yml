@@ -39,7 +39,7 @@ services:
 
   ################################################################################
 
-  cdp-node-backend-template:
+  cph-service-backend:
     build:
       context: .
       target: development
